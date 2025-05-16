@@ -1,1 +1,2 @@
 # Machine-Learning
+Machine Learning is a branch of artificial intelligence that enables computers to learn from data and improve their performance on tasks without being explicitly programmed. It uses algorithms to identify patterns, make decisions, and predict outcomes based on input data. The purpose of machine learning is to automate complex decision-making processes, uncover insights from large datasets, and create intelligent systems that adapt and improve over time.
