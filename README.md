@@ -17,10 +17,15 @@ Machine Learning (ML) is a branch of artificial intelligence (AI) that enables c
 
 # Purpose of Machine Learning:
 The primary purpose of machine learning is to automate decision-making and improve efficiency by enabling systems to learn from experience (data) rather than relying solely on explicit programming. It helps in:
+
 > Handling complex and large datasets: ML can find patterns and insights that are impossible or time-consuming for humans to detect.
+
 > Making accurate predictions: From forecasting weather to recommending products, ML models provide data-driven predictions.
+
 > Improving over time: ML models can continuously improve as they are exposed to more data.
+
 > Automating repetitive tasks: Tasks like image recognition, speech processing, and fraud detection become scalable and more accurate.
+
 > Solving problems in various domains: Healthcare, finance, marketing, autonomous vehicles, natural language processing, and many more benefit from ML.
 
 # Summary:
